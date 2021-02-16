@@ -1,0 +1,10 @@
+//
+//  PROD.xcconfig
+//  CleanArchitectureSwiftUI
+//
+//  Created by Dima Shvets on 16.02.2021.
+//
+
+API_URL = https:/$()/api.themoviedb.org/3
+IMAGE_API_URL = https:/$()/image.tmdb.org/t/p/w500
+API_KEY = 2851e2ad9cf87f599a90ec6c5f7efc4d
